@@ -1,3 +1,3 @@
 # Introduction
 
-IDE：vscode + platformide + esp32 Arduino 3.5.0
+IDE：vscode + platformIO + esp32 Arduino 3.5.0
